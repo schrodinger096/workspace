@@ -1,12 +1,29 @@
-# Java Programs
+# Advanced Java Programs
 
-A collection of beginner-friendly Java programs covering fundamental programming concepts such as loops, conditionals, strings, and number operations. This repository is intended for students, beginners, and anyone preparing for Java interviews or coding practice.
+This repository contains Java programs that demonstrate both basic and advanced programming concepts.
 
-## 📂 Programs Included
+## Topics Covered
+- Calculator
+- Factorial
+- Fibonacci Series
+- Palindrome
+- Reverse Number
+- Reverse String
+- Positive & Negative Number
+- Student Management System
+- LRU Cache
+- Java Stream API
+- Thread Pool using ExecutorService
 
-| Program | Description |
-|---------|-------------|
-| `Factorial.java` | Calculates the factorial of a given number using loops. |
-| `Palindrome.java` | Checks whether a given number or string is a palindrome. |
-| `Reverse` | Reverses an integer. |
-| `ReverseString.java` | Reverses a given string. |
+## Technologies
+- Java
+- Collections Framework
+- Java 8 Stream API
+- Multithreading
+- OOP
+
+## Purpose
+This repository is created to practice Java programming, improve problem-solving skills, and demonstrate core Java concepts through practical examples.
+
+---
+**Author:** Dhanush R
